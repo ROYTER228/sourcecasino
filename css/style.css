@@ -371,3 +371,8 @@ footer {
     display: flex;
 }
 }
+@media screen and (max-width:380px){
+    .preimus{
+    display: none;
+}
+}

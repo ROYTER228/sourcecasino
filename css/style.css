@@ -10,6 +10,7 @@
 }
 
 body {
+    overflow-x:hidden;
     transition: all .5s cubic-bezier(0, 1.15, .36, 1) 0s;
     min-width: 270px;
     font-family: 'Roboto Mono', monospace;

@@ -61,6 +61,7 @@ header {
 
 /* footer */
 footer {
+    align-items: center;
     padding: 10px;
     display: flex;
     color: var(--color-lvl1);

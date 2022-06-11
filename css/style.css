@@ -61,9 +61,17 @@ header {
 
 /* footer */
 footer {
+    padding: 10px;
+    display: flex;
     color: var(--color-lvl1);
     background-color: var(--body-color);
-    width: 100%;
+    margin: 0 auto;
+    max-width: 1320px;
+
+}
+
+.begawa{
+    font-size: 10px;
 }
 
 /* main */

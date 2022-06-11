@@ -386,3 +386,13 @@ footer {
     display: none;
 }
 }
+
+::-webkit-scrollbar {
+    width: 7.5px;
+}
+::-webkit-scrollbar-thumb {
+    background: #272727!important;
+}
+::-webkit-scrollbar-track {
+    background: #1d1c1c!important;
+}

@@ -355,6 +355,16 @@ footer {
     }
 }
 
+
+@media screen and (min-width: 1140px){
+    .head{
+        margin: 0 20px;
+    }
+    .container{
+        margin: 0 20px;
+    }
+}
+
 @media screen and (max-width: 570px){
     .head{
         justify-content: center;

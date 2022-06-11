@@ -329,6 +329,7 @@ footer {
     display: none;
 }
 /* Media */
+
 @media screen and (max-width: 900px){
     .head{
         align-items: center;
@@ -355,15 +356,6 @@ footer {
     }
 }
 
-
-@media screen and (min-width: 1140px){
-    .head{
-        margin: 0 20px;
-    }
-    .container{
-        margin: 0 20px;
-    }
-}
 
 @media screen and (max-width: 570px){
     .head{

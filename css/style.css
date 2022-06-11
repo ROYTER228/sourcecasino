@@ -10,6 +10,7 @@
 }
 
 body {
+    min-width: 270px;
     font-family: 'Roboto Mono', monospace;
     background-color: var(--body-color);
 }
@@ -80,7 +81,7 @@ footer {
     font-size: 15px;
     padding: 20px 30px;
     color: var(--color-lvl1);
-    background-color: #0F151A;
+    background-color: #141c25;
     border: none;
     font-weight: 600;
     display: flex;
